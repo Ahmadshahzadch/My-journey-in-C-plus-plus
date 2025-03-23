@@ -1,6 +1,8 @@
 # My-journey-in-C-plus-plus
 
-**Just want to document my journey to becoming a Computer Scientist :p**
+# 💻 Asslam-o-alaikum, I'm [Ahmad Shahzad]! 👋 
+
+**✨ Just want to document my journey to becoming a Computer Scientist :p ✨**
 
 ### 📫 Let's Connect!  
 - 📧 Email: ahmadshahzadch2005@gmail.com
